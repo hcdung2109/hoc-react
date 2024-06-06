@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2b77d0ab-ff69-4bf0-8c92-730020e74706" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/RuseEffect.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/RuseEffect.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/RuseState.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/RuseState.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +48,7 @@
       <workItem from="1702016963271" duration="38000" />
       <workItem from="1702021040752" duration="6310000" />
       <workItem from="1702030028248" duration="3957000" />
-      <workItem from="1717645172864" duration="7198000" />
+      <workItem from="1717645172864" duration="8108000" />
     </task>
     <servers />
   </component>

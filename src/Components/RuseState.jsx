@@ -52,9 +52,19 @@ const RuseState = () => {
         console.log('Mounted');
     }, []);*/
 
-    useEffect(() => {
+    /*useEffect(() => {
        console.log('changed');
-    }, [count]);
+    }, [count]);*/
+
+    useEffect(() => {
+        console.log('Mounted');
+
+        // cleanup function
+        return () => {
+
+        }
+
+    }, []);
 
     function toggle() {
         setIsHidden(false);
