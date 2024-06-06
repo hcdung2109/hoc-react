@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b77d0ab-ff69-4bf0-8c92-730020e74706" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/RuseEffect.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/RuseEffect.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/RuseState.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/RuseState.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Yv4qjKoT5kvWyCweo5L8jfReP2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b77d0ab-ff69-4bf0-8c92-730020e74706" name="Default Changelist" comment="" />
+      <created>1701392914972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701392914972</updated>
+      <workItem from="1701392917936" duration="2578000" />
+      <workItem from="1702009564688" duration="1358000" />
+      <workItem from="1702016963271" duration="38000" />
+      <workItem from="1702021040752" duration="6310000" />
+      <workItem from="1702030028248" duration="3957000" />
+      <workItem from="1717645172864" duration="7198000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2340" y="101" key="FileChooserDialogImpl" timestamp="1717645056479">
+      <screen x="1600" y="-177" width="1920" height="1040" />
+    </state>
+    <state x="2340" y="101" key="FileChooserDialogImpl/0.0.1600.860/1600.-177.1920.1040@1600.-177.1920.1040" timestamp="1717645056479" />
+    <state x="2267" y="99" width="586" height="488" key="find.popup" timestamp="1717667034372">
+      <screen x="1600" y="-177" width="1920" height="1040" />
+    </state>
+    <state x="2267" y="99" width="586" height="488" key="find.popup/0.0.1600.860/1600.-177.1920.1040@1600.-177.1920.1040" timestamp="1717667034372" />
+  </component>
+</project>
