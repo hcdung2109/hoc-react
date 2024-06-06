@@ -67,7 +67,7 @@ const RuseState = () => {
     }, []);
 
     function toggle() {
-        setIsHidden(false);
+        setIsHidden(!isHidden);
     }
 
 
@@ -91,7 +91,8 @@ const RuseState = () => {
             </ul>
             <p>Tổng: {total}</p>
 
-            <RuseEffect />
+            {isHidden && <RuseEffect />}
+
             <button onClick={toggle}>Show/Hide Component</button>
 
             <Rmemo />
