@@ -4,6 +4,7 @@ import RuseCallback from "./RuseCallback";
 import RuseMemo from "./RuseMemo";
 import RuseContext from "./RuseContext";
 import RuseEffect from "./RuseEffect";
+import Rmemo2 from "./Rmemo2";
 
 const RuseState = () => {
     const [name, setName] = useState('Học useState');
@@ -36,7 +37,7 @@ const RuseState = () => {
 
     const total = useMemo(() => {
         let result = jobs.reduce((result, job) => {
-            console.log('jobs');
+            //console.log('jobs');
 
             return result + parseInt(job);
         }, 0);
@@ -57,7 +58,7 @@ const RuseState = () => {
     }, [count]);*/
 
     useEffect(() => {
-        console.log('Mounted');
+        //console.log('Mounted');
 
         // cleanup function
         return () => {
@@ -95,7 +96,8 @@ const RuseState = () => {
 
             <button onClick={toggle}>Show/Hide Component</button>
 
-            <Rmemo />
+            <Rmemo count={count} />
+            <Rmemo2 />
             <RuseCallback handleClick={handleClick}/>
             <RuseMemo/>
             <RuseContext/>

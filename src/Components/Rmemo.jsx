@@ -5,7 +5,7 @@ const Rmemo = ({count}) => {
 
     return (
         <div>
-            <h3>React.memo</h3>
+            <h3>******** React.memo : ghi nhớ lại các prop của Component => quyết định có cần render lại component không ? => tối ưu hiệu năng</h3>
             <p>Count : {count}</p>
         </div>
     );

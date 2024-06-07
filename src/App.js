@@ -15,8 +15,8 @@ function App() {
             <div className="App">
                 <RuseState/>
                 <RuseRef/>
-                <RuseImperativeHandle/>
                 <RuseLayoutEffect />
+                <RuseImperativeHandle/>
             </div>
         </TestContext.Provider>
     );
